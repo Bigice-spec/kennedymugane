@@ -1,1 +1,4 @@
-# kennedymugane.github.io
+# kennedymugane 
+My portfolio page 
+
+https://bigice-spec.github.io/kennedymugane/
